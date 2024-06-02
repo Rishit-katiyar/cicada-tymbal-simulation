@@ -1,7 +1,7 @@
 # Understanding the Phenomenon of Progressive Buckling in Cicada Tymbals
 
 **Abstract:**
-The phenomenon of progressive buckling in cicada tymbals, though ostensibly straightforward, embodies a nuanced interplay of biomechanical principles and acoustic signaling dynamics. This paper endeavors to dissect the mechanics underlying this phenomenon, elucidating its significance within the realm of cicada behavior and its broader ramifications for the field of bioacoustics.
+The phenomenon of progressive buckling in cicada tymbals, though ostensibly straightforward, embodies a nuanced interplay of biomechanical principles and acoustic signaling dynamics. This endeavors to dissect the mechanics underlying this phenomenon, elucidating its significance within the realm of cicada behavior and its broader ramifications for the field of bioacoustics.
 
 **Introduction:**
 Cicadas, renowned for their distinctive calls resonating with buzzing and clicking cadences, owe much of their acoustic proficiency to the intricate vibrational dynamics exhibited by their tymbal membranes. At the heart of this sonic prowess lies the concept of progressive buckling, a dynamic process wherein tymbals swiftly deform to produce sound waves. Unraveling the mechanics governing progressive buckling is paramount for deciphering the intricacies of cicada communication and unveiling the evolutionary adaptations sculpting these insects' acoustic strategies.
