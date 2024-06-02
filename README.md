@@ -44,8 +44,8 @@ Contributions to improve this simulation are welcome! If you have any ideas, sug
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE), allowing you to use, modify, and distribute the code under certain conditions. See the [LICENSE](LICENSE) file for more details.
 
-##Inspiration
+## Inspiration
 
 Inspiration for this project came after watching the "It's Weirder Than I Thought! How Cicadas Make Noise (In Ultra Slow Motion)" video by Smarter Every Day 299. You can watch the video [here](https://www.youtube.com/watch?v=TWc48iVC8u8).
 
-Happy simulating! 🌟
+## Happy simulating! 🌟
