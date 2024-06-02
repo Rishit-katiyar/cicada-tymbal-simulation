@@ -10,6 +10,10 @@ Welcome to the Cicada Tymbal Simulation repository! This project aims to simulat
 
 Cicada tymbals, specialized structures located on the sides of the male cicada's abdomen, exhibit a fascinating vibrational behavior characterized by progressive buckling and wobbling. As the male cicada initiates its mating call, the tymbals undergo a rapid buckling inward, facilitated by the contraction of internal muscles. This buckling action generates a clicking or snapping sound, forming the basis of the cicada's distinctive call. However, the vibrational dynamics of the tymbals extend beyond mere buckling, as they also undergo a complex wobbling motion. This wobbling is akin to a rhythmic oscillation, where the tymbals not only buckle inward but also exhibit lateral and rotational movements. These additional oscillations contribute to the richness and complexity of the cicada's call, potentially serving as cues for mate attraction and species recognition. The interplay between buckling and wobbling in cicada tymbals exemplifies the intricate mechanisms evolved by these insects for effective communication and reproduction.
 
+### **Q: Why does the cicada tymbal wobble during its vibrational motion?**
+
+**A:** The wobbling motion observed in cicada tymbals is a result of a combination of factors, including the inherent flexibility of the tymbal membrane, the dynamics of muscle contractions, and environmental influences. Unlike rigid structures, the tymbal membrane possesses a degree of compliance, allowing it to deform and oscillate in response to mechanical stimuli. Muscle contractions driving tymbal vibration induce not only rapid buckling but also subtle lateral and torsional forces on the membrane, leading to additional wobbling motions. Furthermore, environmental factors such as temperature and humidity can modulate the wobbling behavior, highlighting the adaptability of cicadas to varying ecological conditions. Overall, the wobbling motion enhances the complexity and richness of the cicada's acoustic signals, contributing to effective communication and reproductive success.
+
 ## Installation
 
 To run the simulation locally, follow these steps:
