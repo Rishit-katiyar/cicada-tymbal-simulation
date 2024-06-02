@@ -18,6 +18,7 @@ Cicada tymbals, specialized structures located on the sides of the male cicada's
 
 **A:** Progressive buckling occurs in cicada tymbals as a biomechanical mechanism for producing their characteristic buzzing and clicking calls. This phenomenon is driven by a finely tuned interplay of structural flexibility and muscular control within the tymbal membrane. When male cicadas initiate their mating calls, specialized muscles contract, exerting forces that cause the tymbal membrane to rapidly deform and buckle inward. This dynamic buckling action generates the distinct sounds that are essential for cicada communication. Unlike static buckling observed in some engineering structures, cicada tymbals undergo continuous and progressive deformation, amplifying and modulating the emitted sound with each cycle. This dynamic behavior enhances the efficiency and precision of cicada communication, allowing for rapid and nuanced modulation of call characteristics. Ultimately, progressive buckling in cicada tymbals serves as an adaptive mechanism honed through evolution to facilitate effective mate attraction and species recognition in these insects.
 
+<!--
 ## Installation
 
 To run the simulation locally, follow these steps:
@@ -47,7 +48,7 @@ To run the simulation locally, follow these steps:
 ## Contributing
 
 Contributions to improve this simulation are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.
-
+-->
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE), allowing you to use, modify, and distribute the code under certain conditions. See the [LICENSE](LICENSE) file for more details.
