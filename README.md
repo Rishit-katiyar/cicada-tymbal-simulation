@@ -16,7 +16,7 @@ To run the simulation locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cicada-tymbal-simulation.git
+   git clone https://github.com/Rishit-katiyar/cicada-tymbal-simulation.git
    ```
 
 2. **Navigate to the project directory:**
