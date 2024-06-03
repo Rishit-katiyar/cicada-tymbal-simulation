@@ -10,4 +10,4 @@
 
 [Simulation Video](https://github.com/Rishit-katiyar/cicada-tymbal-simulation/assets/167756997/f578e651-1ad4-49e1-bf3c-a7861e520e29)
 
-#### credit - Smartereveryday
+#### credit - Smartereveryday [here](https://youtu.be/TWc48iVC8u8?si=yi0SQn6bjE9gJiJg&t=833)
