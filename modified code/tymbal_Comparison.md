@@ -3,7 +3,7 @@
 ## Animation Video
 
 <p align="center">
-  <img src="https://github.com/Rishit-katiyar/cicada-tymbal-simulation/assets/167756997/96ce14cc-1f99-4b11-a81f-26b5f5bc0666" width="1000" >
+  <img src="https://github.com/Rishit-katiyar/cicada-tymbal-simulation/assets/167756997/10b6f464-801a-47a5-8d85-49df6b639e3e" width="1000" >
 </p>
 
 ## Video 
