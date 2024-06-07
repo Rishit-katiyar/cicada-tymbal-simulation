@@ -1,5 +1,6 @@
 # Cicada Tymbal Simulation
 
+
 Welcome to the Cicada Tymbal Simulation repository! This project aims to simulate the intricate vibrational behavior of cicada tymbals, showcasing their progressive buckling and wobbling motion using Python and matplotlib.
 
 <p align="center">
